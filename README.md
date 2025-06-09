@@ -34,7 +34,7 @@ I'm currently deepening my knowledge of the Vulkan API and exploring advanced re
 
 ---
 
-### 🥾 Personal Interests
+### ⚡ Personal Interests
 
 When I'm not in front of a computer, you can find me:
 
