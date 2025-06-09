@@ -29,7 +29,7 @@ I'm currently deepening my knowledge of the Vulkan API and exploring advanced re
 ### 🎓 Education & Research
 
 * **Integrated Master of Engineering in Electronic & Computer Engineering** - *Technical University of Crete*
-    * **Thesis:** *Hybrid and Non-Hybrid Rendering for Diffuse Global Illumination in Real-Time Applications*. This project involved building a real-time renderer and path tracer from scratch, giving me a deep understanding of the entire graphics pipeline.
+    * **Thesis:** *Hybrid and Non-Hybrid Rendering for Diffuse Global Illumination in Real-Time Applications*. This project involved building a real-time renderer and path tracer from scratch, giving me a deep understanding of the entire graphics pipeline. The thesis text can be found [here](https://dias.library.tuc.gr/view/102378?locale=en) and you can also find a small demo video of the hybrid renderer [here](https://www.youtube.com/watch?v=dc-FNRCIQus).
 * I had the opportunity to give an introductory lecture on the **Vulkan API** at my university. You can find the presentation and materials [here](https://github.com/dnikolaidis2/intro-to-low-level-gpu).
 
 ---
@@ -48,4 +48,4 @@ When I'm not in front of a computer, you can find me:
 
 * **LinkedIn:** [linkedin.com/in/nikolaidisd](https://www.linkedin.com/in/nikolaidisd/)
 * **Email:** nikolaidis.dimit@gmail.com
-* **Discord:** [@jimeitos]
+* **Discord:** @jimeitos
