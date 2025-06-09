@@ -48,5 +48,4 @@ When I'm not in front of a computer, you can find me:
 
 * **LinkedIn:** [linkedin.com/in/nikolaidisd](https://www.linkedin.com/in/nikolaidisd/)
 * **Email:** nikolaidis.dimit@gmail.com
-* **Discord:** jimeitos
 * **Discord:** [@jimeitos]
